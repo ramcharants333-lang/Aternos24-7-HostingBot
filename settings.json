@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "RAMGAMEROG.aternos.me:38355",
+    "port": 38355,
     "version": "",
     "try-creative": false
   },
